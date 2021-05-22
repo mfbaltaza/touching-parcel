@@ -1,5 +1,6 @@
 ## Sourcemaps
-*.map
+*.js.map
+*.css.map
 
 ### VisualStudioCode ###
 .vscode/*
