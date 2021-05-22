@@ -1,0 +1,22 @@
+{
+  "name": "parcel-bundler",
+  "version": "1.0.0",
+  "description": "Getting to know Parcel!",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel -p 3000 ./src/index.html",
+    "build": "parcel build ./src/index.html"
+  },
+  "author": "mfbaltaza",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.14.3",
+    "@babel/core": "^7.14.3",
+    "@babel/preset-react": "^7.13.13"
+  }
+}

@@ -1,0 +1,13 @@
+.main {
+  background: black;
+  font-family: Helvetica, sans-serif;
+}
+
+p {
+  display: grid;
+  margin-top: 10%;
+  color: aliceblue;
+  font-size: 18px;
+  font-weight: 400;
+  justify-content: center;
+}
