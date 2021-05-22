@@ -1,6 +1,11 @@
-## Sourcemaps
+### Sourcemaps
 *.js.map
 *.css.map
+
+### Folders
+cache/
+node_modules/
+
 
 ### VisualStudioCode ###
 .vscode/*
