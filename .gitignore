@@ -3,7 +3,7 @@
 *.css.map
 
 ### Folders
-cache/
+.cache/
 node_modules/
 
 
